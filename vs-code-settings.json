@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.scrollBeyondLastLine": false,
+    "editor.lineNumbers": false,
+    "window.zoomLevel": 1,
+    "editor.folding": false,
+    "files.associations": {
+        "*.c": "c",
+        "*.h": "c"
+    }
+}

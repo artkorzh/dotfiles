@@ -1,0 +1,1 @@
+ln -s $PWD/vs-code-settings.json /home/azurkin/.config/Code/User/settings.json
