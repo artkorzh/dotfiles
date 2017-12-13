@@ -17,6 +17,7 @@ set softtabstop=4 "Backspace will delete multiple spaces by tabwith slices
 filetype indent on "Turn on autoindent based in programming language. Determine by filetype
 set pastetoggle=<F10> "To paste without cascade indentation
 set showcmd "Show command (eg. d)
-colorscheme darkblue
 set directory=~/.vim/swp "Directory for store .swp files
+set modeline
+set colorcolumn=80 "Display ruler
 
