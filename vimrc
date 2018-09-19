@@ -19,5 +19,6 @@ set pastetoggle=<F10> "To paste without cascade indentation
 set showcmd "Show command (eg. d)
 set directory=~/.vim/swp "Directory for store .swp files
 set modeline
-set colorcolumn=80 "Display ruler
+syntax on
+"set colorcolumn=80 "Display ruler
 

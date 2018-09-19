@@ -1,11 +1,8 @@
 [color]
 	ui = auto
 [alias]
-	lg = log --format='%C(yellow)%h %C(green)%ar %C(blue)%an: %C(reset)%s' --graph
+    lg = log --format='%C(yellow)%h %C(green)%ad %C(blue)%an: %C(reset)%s' --graph --date 'format-local:%Y-%m-%d %H:%M:%S' 
 	st = status
 	co = checkout
-[user]
-	name = azurkin
-	email = azurlay@gmail.com
 [push]
 	default = simple
