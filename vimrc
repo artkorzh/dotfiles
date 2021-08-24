@@ -17,7 +17,7 @@ set softtabstop=4 "Backspace will delete multiple spaces by tabwith slices
 filetype indent on "Turn on autoindent based in programming language. Determine by filetype
 set pastetoggle=<F10> "To paste without cascade indentation
 set showcmd "Show command (eg. d)
-set modeline
+set modeline "Use modeline if there is one
 syntax on
 "set colorcolumn=80 "Display ruler
 
