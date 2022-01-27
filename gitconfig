@@ -6,3 +6,6 @@
 	co = checkout
 [push]
 	default = simple
+[user]
+	name = Tim Korzhenevsky
+	email = artkorzh1@gmail.com
